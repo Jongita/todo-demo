@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress open"
+    "test": "npx cypress open",
+    "cypress:ci": "npx cypress run"
   },
   "author": "Jongita <jurgitajonaityte@gmail.com> (https://github.com/jongita)",
   "license": "MIT",
