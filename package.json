@@ -1,0 +1,14 @@
+{
+  "name": "todo-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Jongita <jurgitajonaityte@gmail.com> (https://github.com/jongita)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.14.2"
+  }
+}
